@@ -9,11 +9,11 @@ padding: 16px;
 }
 
 main {
-color:blue
-background-color:red
-max-wight: 800px;
-margin: 0 auto;
-padding: 16px;
+    color:blue
+    background-color:red
+    max-wight: 800px;
+    margin: 0 auto;
+    padding: 16px;
 }
 
 img {
